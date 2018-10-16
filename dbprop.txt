@@ -1,0 +1,6 @@
+spring.datasource.url=jdbc:derby:f:/dbbackup/ecommercedb;create=true;upgrade=true
+spring.datasource.username=admin
+spring.datasource.password=password
+spring.datasource.initialize=false
+spring.datasource.driver-class-name=org.apache.derby.jdbc.EmbeddedDriver
+server.port=6060
